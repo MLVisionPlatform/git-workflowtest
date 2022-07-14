@@ -57,7 +57,7 @@ Examples :
 - ```git log --pretty --oneline```
 
 ## takes a string and shows only those commits that changed the number of occurrences of that string
-- ```git log -S functionName | SearchString```` 
+- ```git log -S functionName | SearchString```
 
 ## If you specify a directory or file name, you can limit the log output to commits that introduced a change to those files. 
 - ```git log -- path/to/file```

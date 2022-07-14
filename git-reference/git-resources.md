@@ -17,6 +17,5 @@ https://github.com/nocodb/nocodb/blob/master/.github/COMMIT_CONVENTION.md
 https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
 
 
-
 ## Trunk-based development by Google Cloud 
 https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development
